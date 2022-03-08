@@ -45,3 +45,13 @@ Cheat Engine table used: https://fearlessrevolution.com/viewtopic.php?t=16156
 Target: 64-bit
 
 What it does: It just disables the passing of time, to explore without any hurry and freely decide when to face Mormo.
+
+
+## Credits
+
+- Cheat Engine devs of course: (https://www.cheatengine.org/)
+- CE Forum to help me out understanding all of this
+- Every CE Table (.CT) original creator, linked under the relative game
+- Manuelx98
+
+
