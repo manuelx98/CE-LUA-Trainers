@@ -52,6 +52,7 @@ What it does: It just disables the passing of time, to explore without any hurry
 - Cheat Engine devs of course: (https://www.cheatengine.org/)
 - CE Forum to help me out understanding all of this
 - Every CE Table (.CT) original creator, linked under the relative game
+- Stephen Chapman's super useful Video Tutorial: https://www.youtube.com/watch?v=hnZyZio5FBQ
 - Manuelx98
 
 
