@@ -40,6 +40,8 @@ What it does: It changes the FOV (Horizontal and Vertical) to 38 for bigger scre
 
 ### The Swords of Ditto
 
+Store Page: https://store.steampowered.com/app/619780/The_Swords_of_Ditto_Mormos_Curse/
+
 Cheat Engine table used: https://fearlessrevolution.com/viewtopic.php?t=16156
 
 Target: 64-bit
